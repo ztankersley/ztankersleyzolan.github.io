@@ -9,7 +9,7 @@ description: Hire me
 # Author Settings
 author:
   name: Zach Tankersley
-  image: zach1.JPG
+  image: images/zach1.JPG
   say-hello: Hello, I'm <strong>Zach Tankersley</strong>
   bio: Writer, speaker, builder. I enjoy solving complex problems and sharing with people my experiences.
 #-------------------------------
