@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Zach Tankersley
-logo: logo.svg # You can add own logo.
+logo:  # You can add own logo.
 description: Hire me
 
 
@@ -9,9 +9,10 @@ description: Hire me
 # Author Settings
 author:
   name: Zach Tankersley
-  image: images/zach1.JPG
+  image: zach1.JPG
   say-hello: Hello, I'm <strong>Zach Tankersley</strong>
   bio: Writer, speaker, builder. I enjoy solving complex problems and sharing with people my experiences.
+  
 #-------------------------------
 # Contact links
 twitter: https://twitter.com/ # Add your Twitter handle
@@ -23,13 +24,13 @@ pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier:  # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
 instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: ztankersley # Add instagram username
 
 
 #-------------------------------
