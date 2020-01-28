@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Hello
-permalink: /hello/
+permalink: /https://www.buymeacoffee.com/zachsthirsty/
 image: 01.jpg
 ---
