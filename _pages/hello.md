@@ -5,5 +5,5 @@ permalink: /hello/
 image: 01.jpg
 ---
 
-<embed src="/_data/coffee.txt">
+<embed src="/_data/coffee.html">
 
