@@ -25,7 +25,7 @@ github: https://github.com/
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier:  # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: zachtankersley # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
@@ -36,7 +36,7 @@ instagram-profile: ztankersley # Add instagram username
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-156902732-1  # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
