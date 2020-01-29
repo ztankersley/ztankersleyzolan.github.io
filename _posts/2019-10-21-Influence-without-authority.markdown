@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  Influence without authority
-date:   2020-01-24 15:01:35 +0300
+date:   2019-10-21 15:01:35 +0300
 image:  
-tags:   Leadership; Hello
+tags:   Influence Authority
+comments: true
 ---
 
 I often describe the job of product management as simply the ability to influence without authority. No matter what problem you are solving, you are gathering evidence to determine what you should do and why you should be doing it.
