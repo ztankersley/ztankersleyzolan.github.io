@@ -6,6 +6,5 @@ image:
 tags:   Improv-Product
 comments: true
 ---
-
-<embed src="/_data/Improv_and_product_clean2.pdf"
-  width="800px" height="2100px" />
+  
+  <iframe src=”/_data/Improv_and_product_clean2.pdf" width=”100%” height=”100%”>
