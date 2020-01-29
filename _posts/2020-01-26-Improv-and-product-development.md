@@ -8,4 +8,3 @@ comments: true
 ---
   
   
-  <object data=”/_data/Improv_and_product_clean2.pdf" type=”application/pdf” width=”100%” height=”100%”>
