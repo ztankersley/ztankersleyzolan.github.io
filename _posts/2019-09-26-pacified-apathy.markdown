@@ -2,7 +2,7 @@
 layout: post
 title:  What is Pacified Apathy?
 date:   2019-09-26 15:01:35 +0300
-image:  02.jpg
+image:  complaining.jpg
 tags:   Leadership-Growth-Accountability
 comments: true
 ---
