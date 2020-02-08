@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Coffee
-permalink: https://www.buymeacoffee.com/zachsthirsty
+permalink: /https://www.buymeacoffee.com/zachsthirsty
 ---
