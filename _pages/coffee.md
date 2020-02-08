@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About
+title: Coffee
 permalink: https://www.buymeacoffee.com/zachsthirsty
 ---
