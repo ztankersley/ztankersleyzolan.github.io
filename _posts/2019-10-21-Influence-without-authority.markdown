@@ -2,7 +2,9 @@
 layout: post
 title:  Influence without authority
 date:   2019-10-21 15:01:35 +0300
-image:  influence.jpg
+header:
+  overlay_image: influence.jpg
+image:  
 tags:   Influence-Authority
 comments: true
 ---
