@@ -6,7 +6,9 @@ image:  Picforimprovarticle.jpg
 tags:   Improv-Product
 comments: true
 ---
-I belive that improv and product development are so similar I created a talk on it. Check it out.
+I belive that improv and product development are so similar I created a talk on it. Check it out. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 <embed src="/images/Improv_and_product_clean2.pdf"
   width="800px" height="2100px">
